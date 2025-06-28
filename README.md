@@ -23,10 +23,10 @@ An end-to-end real-time object detection and analytics solution designed for ret
 ## 🖼️ Screenshots
 
 ### 🎥 Real-Time Detection Interface
-![Detection]("C:\Users\Ankush\OneDrive\画像\Screenshots\detection.png")
+![Detection]("retail-store-analysis.github.io/detection.png")
 
 ### 📈 Analytics Dashboard
-![Dashboard]("C:\Users\Ankush\OneDrive\画像\Screenshots\dashboard.png")
+![Dashboard]("retail-store-analysis.github.io/dashboard.png")
 
 ---
 
