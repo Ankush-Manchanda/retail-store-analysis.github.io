@@ -23,7 +23,7 @@ An end-to-end real-time object detection and analytics solution designed for ret
 ## 🖼️ Screenshots
 
 ### 🎥 Real-Time Detection Interface
-![Detection]("![Image](https://github.com/user-attachments/assets/774d063c-81a1-4f21-8db6-e911690a6b95)")
+![Detection](image.png)
 
 ### 📈 Analytics Dashboard
 ![Dashboard]("![Image](https://github.com/user-attachments/assets/7c7df1d8-9004-470c-8f83-0f0751dbab34)")
