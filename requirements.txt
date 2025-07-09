@@ -4,3 +4,8 @@ opencv-python
 pandas
 numpy
 matplotlib
+os
+PIL
+tempfile
+time 
+datetime
