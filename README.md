@@ -2,7 +2,12 @@
 
 An end-to-end real-time object detection and analytics solution designed for retail stores. Built using Python, YOLOv8, OpenCV, and Streamlit, this system monitors customer activity, detects footfall, and visualizes key retail metrics.
 
----
+------------------------------------------------------
+
+🎬 Demo
+👉 [Live Demo Link Here](https://retail-store-analysisappio-2uvevfcmkh9upuhltcczwq.streamlit.app/)
+
+------------------------------------------------------
 
 ## 🚀 Features
 
@@ -18,7 +23,7 @@ An end-to-end real-time object detection and analytics solution designed for ret
 - 🗃️ Logs stored in `analytics/footfall.csv`
 - 🎯 Designed for hackathons & real-world deployment
 
----
+------------------------------------------------------
 
 ## 🖼️ Screenshots
 
@@ -28,7 +33,7 @@ An end-to-end real-time object detection and analytics solution designed for ret
 ### 📈 Analytics Dashboard
 ![Dashboard](image-1.png)
 
----
+------------------------------------------------------
 
 ## 🛠️ Tech Stack
 
@@ -41,7 +46,7 @@ An end-to-end real-time object detection and analytics solution designed for ret
 | Pandas     | Data logging & CSV export          |
 | Matplotlib | Graph plotting in dashboard        |
 
----
+------------------------------------------------------
 
 ## 📁 Folder Structure
 
@@ -59,7 +64,7 @@ Retail-Analytics/
 |-- presentation.pptx       # (Optional) Hackathon PPT
 ```
 
----
+------------------------------------------------------
 
 ## ✅ How to Run
 
@@ -91,7 +96,7 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
----
+------------------------------------------------------
 
 ## 🎥 Inputs Supported
 
@@ -99,7 +104,7 @@ streamlit run app.py
 - `.mp4`, `.avi`, `.mov` video formats
 - Live webcam (click **Start Detection**)
 
----
+------------------------------------------------------
 
 ## 📊 Analytics Output
 
@@ -119,7 +124,7 @@ timestamp,person_count
 
 This data feeds the analytics dashboard automatically.
 
----
+------------------------------------------------------
 
 ## 🎯 Use Cases
 
@@ -129,7 +134,7 @@ This data feeds the analytics dashboard automatically.
 - Queue optimization
 - Security surveillance support
 
----
+------------------------------------------------------
 
 ## 🌟 Future Enhancements
 
@@ -138,14 +143,14 @@ This data feeds the analytics dashboard automatically.
 - Gender & age group analytics
 - Alert system for overcapacity
 
----
+------------------------------------------------------
 
 ## 👨‍💻 Author
 
 **Ankush M.**  
 Project developed for hackathon & real-world deployment.
 
----
+------------------------------------------------------
 
 ## 📄 License
 
